@@ -1,0 +1,11 @@
+{
+  "name": "bounce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fractals.js",
+  "scripts": {
+    "start": "npx serve"
+  },
+  "author": "",
+  "license": "ISC"
+}
